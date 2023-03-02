@@ -17,6 +17,11 @@ curl -L http://nolus.jembutkucing.xyz/jembutkucing_snapshot.tar.lz4 | tar -Ilz4 
 mv $HOME/.nolus/priv_validator_state.json.backup $HOME/.nolus/data/priv_validator_state.json
 ```
 
+Download new addressbook
+```
+wget -O $HOME/.nolus/config/addrbook.json "http://nolus.jembutkucing.xyz/addrbook.json"
+```
+
 # Restart the service and check the logs
 ```
 sudo systemctl start nolusd && sudo journalctl -u nolusd -f
