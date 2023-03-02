@@ -13,7 +13,7 @@ rm -rf $HOME/.nolus/data
 
 # Download the latest snapshot, extract the file then rename the backed up state file
 ```
-curl -L http://nolus.jembutkucing.xyz/jembutkucing_snapshot.tar.lz4 | tar -Ilz4 -xf - -C $HOME/.nolus
+curl -o - -L http://nolus.jembutkucing.xyz/jembutkucing_snapshot.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.nolus --strip-components 2
 mv $HOME/.nolus/priv_validator_state.json.backup $HOME/.nolus/data/priv_validator_state.json
 ```
 
