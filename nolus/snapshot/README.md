@@ -11,7 +11,7 @@ cp $HOME/.nolus/data/priv_validator_state.json $HOME/.nolus/priv_validator_state
 rm -rf $HOME/.nolus/data
 ```
 
-# Download the latest snapshot, extract the file then then move back the backed up state file
+# Download the latest snapshot, extract the file then move back the backed up state file
 ```
 curl -o - -L http://nolus.jembutkucing.xyz/jembutkucing_snapshot.tar.lz4 | lz4 -c -d - | tar -x -C $HOME/.nolus --strip-components 2
 mv $HOME/.nolus/priv_validator_state.json.backup $HOME/.nolus/data/priv_validator_state.json
