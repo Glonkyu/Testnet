@@ -4,7 +4,7 @@
   "keywords": [
     "null"
   ],
-  "logoURI": "ipfs://QmQAGtNJ2rSGpnP6dh6PPKNSmZL8RTZXmgFwgTdy5Nz5mx",
+  "logoURI": "https://explorer.whitebit.network/testnet/_next/static/media/logo-wbt.91328df1.svg",
   "version": {
     "major": 5,
     "minor": 0,
@@ -14,74 +14,74 @@
     {
       "chainId": 2625,
       "name": "WWBT",
-      "address": "0xC006F2FE147cC35a17f3e9f516c231e44FE88b1f",
+      "address": "0xb8D9c4f69AA4E8b946Ae169d0eD79fC7D50ee7DA",
       "decimals": 18,
       "symbol": "WEETH",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     },
     {
       "chainId": 2625,
-      "name": "WBBNB",
+      "name": "Taxi",
+      "address": "0xb8D9c4f69AA4E8b946Ae169d0eD79fC7D50ee7DA",
+      "decimals": 18,
+      "symbol": "TAXI",
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
+    },
+    {
+      "chainId": 2625,
+      "name": "Wibu Ktl",
       "address": "0xE647e1E54e241121B0ba35e051ed57427A1C553d",
       "decimals": 18,
-      "symbol": "WBBNB",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "symbol": "EMILIA",
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     },
     {
       "chainId": 2625,
-      "name": "Alex",
+      "name": "Spam Coin",
       "address": "0x6cdD12D2633c0157145389fc26c531ffC9e280B3",
       "decimals": 18,
-      "symbol": "Alex",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "symbol": "SPAMC",
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     },
     {
       "chainId": 2625,
-      "name": "Serg",
-      "address": "0xCA246c6213710a93b582E6123Bbac872C5B85dDd",
-      "decimals": 18,
-      "symbol": "Serg",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
-    },
-    {
-      "chainId": 2625,
-      "name": "Nehemia",
+      "name": "Alemant",
       "address": "0x16CC7149283f5aAa59c432ee2Ebe84D4de882B74",
       "decimals": 18,
-      "symbol": "Nehemia",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "symbol": "AWL",
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     },
     {
       "chainId": 2625,
-      "name": "Richard",
+      "name": "Adzan",
+      "address": "0xe31aD822841Ab63eb99eE5d7c15a7cADc66dD0fe",
+      "decimals": 18,
+      "symbol": "AZN",
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
+    },
+    {
+      "chainId": 2625,
+      "name": "Thang Token",
       "address": "0x6fA62116A5750FfA8cDD8E5aBa6Cc6243856D473",
       "decimals": 18,
-      "symbol": "Richard",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "symbol": "THANG",
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     },
     {
       "chainId": 2625,
-      "name": "Luke",
-      "address": "0xDC9A1f5bd65870825C3353DFBbdF8609DF53236D",
+      "name": "MyTokenTest",
+      "address": "0x78e19D0D6833DC4b12C393FD3B7af162eE8eE0Bf",
       "decimals": 18,
-      "symbol": "Luke",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "symbol": "MTT",
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     },
     {
       "chainId": 2625,
-      "name": "Pedro",
-      "address": "0xda62ef4439bFC5b17cf5960Ee8c8c3e2B179a841",
-      "decimals": 18,
-      "symbol": "Pedro",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
-    },
-    {
-      "chainId": 2625,
-      "name": "Robert",
-      "address": "0x026a1048A989E215DC2457D8D2f3B58B63dE1178",
+      "name": "Shiba ANU",
+      "address": "0x88aafe2438000F73AEb5173eC024dF9461935F20",
       "decimals": 18,
       "symbol": "Robert",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     },
     {
       "chainId": 2625,
@@ -89,7 +89,7 @@
       "address": "0x5AC25B63BC3eC03bCBeCFC9295B6c4B3A8849eE3",
       "decimals": 18,
       "symbol": "JEMBUT",
-      "logoURI": "https://explorer.waterfall.network/favicon-72-precomposed.png"
+      "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     }
   ]
 }
