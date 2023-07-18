@@ -13,10 +13,10 @@
   "tokens": [
     {
       "chainId": 2625,
-      "name": "WWBT",
-      "address": "0xb8D9c4f69AA4E8b946Ae169d0eD79fC7D50ee7DA",
+      "name": "White Hold",
+      "address": "0xB0C353aFD1a101A2985f756ED14CE82DE093A9Fc",
       "decimals": 18,
-      "symbol": "WEETH",
+      "symbol": "WTH",
       "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "chainId": 2625,
-      "name": "Spam Coin",
+      "name": "Satpam Coin",
       "address": "0x6cdD12D2633c0157145389fc26c531ffC9e280B3",
       "decimals": 18,
       "symbol": "SPAMC",
@@ -80,7 +80,7 @@
       "name": "Shiba ANU",
       "address": "0x88aafe2438000F73AEb5173eC024dF9461935F20",
       "decimals": 18,
-      "symbol": "Robert",
+      "symbol": "SHIB",
       "logoURI": "https://explorer.whitebit.network/testnet/icons/defaultTokenIcon.svg"
     },
     {
